@@ -1,1 +1,1 @@
-# sqlite
+# sqlite example using northwind database
